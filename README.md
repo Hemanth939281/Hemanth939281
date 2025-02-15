@@ -52,9 +52,8 @@
 ---
 
 ## 📌 Featured Projects  
-🚀 **[Campus Project Hub](https://github.com/Hemanth939281/campus-project-hub)** – A platform for students to collaborate on projects  
-💡 **[Startup Connect](https://github.com/Hemanth939281/startup-connect)** – A website to connect idea contributors and investors  
-🌊 **[Water Reservoir Management](https://github.com/Hemanth939281/water-reservoir)** – A real-time web app for monitoring water levels  
+🚀 **[Campus Project Hub](https://github.com/Hemanth939281/projects-hub)** – A platform for students to collaborate on projects  
+💡 **[Startup Connect](https://github.com/Hemanth939281/N_gpt)** – Netflix clone
 
 ---
 
