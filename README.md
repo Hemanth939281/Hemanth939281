@@ -52,7 +52,7 @@
 ---
 
 ## 📌 Featured Projects  
-🚀 **[Campus Project Hub](https://github.com/Hemanth939281/projects-hub)** – A platform for students to collaborate on projects  
+🚀 **[Campus Project Hub](https://hub-amber.vercel.app/)** – A platform for students to collaborate on projects  
 💡 **[Netflix Clone](https://github.com/Hemanth939281/N_gpt)** – Netflix clone
 
 ---
