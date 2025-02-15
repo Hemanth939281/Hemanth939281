@@ -23,44 +23,47 @@
 
 ## 🛠️ Technology Arsenal
 
-<details>
-<summary>Frontend Development</summary>
+### 🎨 Frontend Technologies
 
-```javascript
-const frontend = {
-    languages: ['HTML5', 'CSS3', 'JavaScript (ES6+)'],
-    frameworks: ['React.js', 'Next.js'],
-    styling: ['Tailwind CSS', 'CSS-in-JS', 'SASS'],
-    concepts: ['Responsive Design', 'PWA', 'SPA']
-};
-```
-</details>
+<div align="center">
 
-<details>
-<summary>Backend Development</summary>
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-```javascript
-const backend = {
-    runtime: 'Node.js',
-    frameworks: ['Express.js'],
-    databases: ['MongoDB', 'PostgreSQL'],
-    apis: ['REST', 'GraphQL'],
-    tools: ['Postman', 'Swagger']
-};
-```
-</details>
+</div>
 
-<details>
-<summary>DevOps & Tools</summary>
+### ⚙️ Backend Technologies
 
-```javascript
-const devops = {
-    versionControl: ['Git', 'GitHub'],
-    deployment: ['Vercel', 'Netlify'],
-    tools: ['VS Code', 'npm']
-};
-```
-</details>
+<div align="center">
+
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+[![REST APIs](https://img.shields.io/badge/REST_APIs-%23404d59.svg?style=for-the-badge&logo=rest&logoColor=white)](https://restfulapi.net/)
+
+</div>
+
+### 🚀 DevOps & Tools
+
+<div align="center">
+
+[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
+</div>
 
 ## 🌟 Featured Projects
 
