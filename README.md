@@ -5,7 +5,7 @@
 
 💻 Passionate about creating **beautiful and scalable** web applications.  
 📍 Based in **India**  
-🌱 Currently learning **Next.js** & **Three.js** for **3D Web Experiences**  
+🌱 Currently learning **Next.js** for **modern web development**  
 ⚡ Fun Fact: I love **building innovative web solutions!**  
 
 ---
@@ -20,14 +20,18 @@
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-%23000000.svg?&style=for-the-badge&logo=three.js&logoColor=white" />
 </p>  
 
 ### **Backend**  
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
+</p>  
+
+### **Databases**  
+<p align="left">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>  
 
 ### **Tools & Platforms**  
@@ -35,7 +39,6 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 </p>  
 
 ---
