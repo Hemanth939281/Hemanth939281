@@ -1,71 +1,106 @@
-# 🌟 Hi, I'm Hemanth Kumar! 👋  
-### 🚀 Full-Stack Developer | MERN Stack | UI/UX Enthusiast  
+<div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Hemanth939281&color=blueviolet)  
+# 👋 Hi, I'm Hemanth Kumar
 
-💻 Passionate about creating **beautiful and scalable** web applications.  
-📍 Based in **India**  
-🌱 Currently learning **Next.js** for **modern web development**  
-⚡ Fun Fact: I love **building innovative web solutions!**  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;MERN+Stack+Specialist;UI%2FUX+Enthusiast;Building+the+Future+of+Web)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hemanth939281&color=blueviolet&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+</div>
+
+## 🚀 About Me
+
+> "Crafting digital experiences that make a difference"
+
+- 💻 Full-Stack Developer specializing in MERN stack
+- 🎯 Focused on creating scalable and performant web applications
+- 🌱 Currently mastering **Next.js** and advanced React patterns
+- 🏠 Based in **India**
+- ⚡ Fun fact: I turn coffee into code and dreams into digital reality!
+
+## 🛠️ Technology Arsenal
+
+<details>
+<summary>Frontend Development</summary>
+
+```javascript
+const frontend = {
+    languages: ['HTML5', 'CSS3', 'JavaScript (ES6+)'],
+    frameworks: ['React.js', 'Next.js'],
+    styling: ['Tailwind CSS', 'CSS-in-JS', 'SASS'],
+    concepts: ['Responsive Design', 'PWA', 'SPA']
+};
+```
+</details>
+
+<details>
+<summary>Backend Development</summary>
+
+```javascript
+const backend = {
+    runtime: 'Node.js',
+    frameworks: ['Express.js'],
+    databases: ['MongoDB', 'PostgreSQL'],
+    apis: ['REST', 'GraphQL'],
+    tools: ['Postman', 'Swagger']
+};
+```
+</details>
+
+<details>
+<summary>DevOps & Tools</summary>
+
+```javascript
+const devops = {
+    versionControl: ['Git', 'GitHub'],
+    deployment: ['Vercel', 'Heroku', 'Netlify'],
+    tools: ['VS Code', 'Docker', 'npm', 'Yarn']
+};
+```
+</details>
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|------------|------------|-----------|
+| [Campus Project Hub](https://hub-amber.vercel.app/) | A collaborative platform for students to work on projects together | Next.js, MongoDB, Node.js | [View Demo](https://hub-amber.vercel.app/) |
+| [Netflix Clone](https://rakshakh-netflix.vercel.app/) | A faithful recreation of Netflix's UI/UX | React, Firebase, Styled Components | [View Demo](https://rakshakh-netflix.vercel.app/) |
+
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hemanth939281&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth939281&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanth939281&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
+<div align="center">
 
-### **Frontend**  
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>  
+### 🎯 Looking for opportunities to collaborate on innovative projects!
 
-### **Backend**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
-</p>  
+*If you like what you see, feel free to star ⭐ some repositories!*
 
-### **Databases**  
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>  
-
-### **Tools & Platforms**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
-</p>  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hemanth939281&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanth939281&theme=radical" />
-</p>  
-
----
-
-## 📌 Featured Projects  
-🚀 **[Campus Project Hub](https://hub-amber.vercel.app/)** – A platform for students to collaborate on projects  
-💡 **[Netflix Clone](https://rakshakh-netflix.vercel.app/)** – Netflix clone
-
----
-
-## 🔗 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>  
+</div>
