@@ -5,9 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;MERN+Stack+Specialist;UI%2FUX+Enthusiast;Building+the+Future+of+Web)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hemanth939281&color=blueviolet&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hemanthkumarrajana/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 </div>
 
