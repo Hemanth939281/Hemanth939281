@@ -56,8 +56,8 @@ const backend = {
 ```javascript
 const devops = {
     versionControl: ['Git', 'GitHub'],
-    deployment: ['Vercel', 'Heroku', 'Netlify'],
-    tools: ['VS Code', 'Docker', 'npm', 'Yarn']
+    deployment: ['Vercel', 'Netlify'],
+    tools: ['VS Code', 'npm']
 };
 ```
 </details>
