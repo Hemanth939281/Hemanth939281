@@ -63,7 +63,7 @@
 | Project | Description | Tech Stack | Live Demo |
 |---------|------------|------------|-----------|
 | [Campus Project Hub](https://hub-amber.vercel.app/) | A collaborative platform for students to work on projects together | React.js, Firebase, Formik, Yup | [View Demo](https://hub-amber.vercel.app/) |
-| [Restaurant Management](http://rakshakhrestro.infinityfreeapp.com/) | A faithful recreation of Netflix's UI/UX | PHP, MYSQL | [View Demo](http://rakshakhrestro.infinityfreeapp.com/) |
+| [Restaurant Management](http://rakshakhrestro.infinityfreeapp.com/) | A platform where customers can book tables or order food | PHP, MYSQL | [View Demo](http://rakshakhrestro.infinityfreeapp.com/) |
 | [Netflix Clone](https://rakshakh-netflix.vercel.app/) | A faithful recreation of Netflix's UI/UX | React.js, Firebase, Redux | [View Demo](https://rakshakh-netflix.vercel.app/) |
 
 </div>
