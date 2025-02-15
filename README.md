@@ -62,8 +62,8 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|------------|------------|-----------|
-| [Campus Project Hub](https://hub-amber.vercel.app/) | A collaborative platform for students to work on projects together | Next.js, MongoDB, Node.js | [View Demo](https://hub-amber.vercel.app/) |
-| [Netflix Clone](https://rakshakh-netflix.vercel.app/) | A faithful recreation of Netflix's UI/UX | React, Firebase, Styled Components | [View Demo](https://rakshakh-netflix.vercel.app/) |
+| [Campus Project Hub](https://hub-amber.vercel.app/) | A collaborative platform for students to work on projects together | React.js, Firebase, Formik, Yup | [View Demo](https://hub-amber.vercel.app/) |
+| [Netflix Clone](https://rakshakh-netflix.vercel.app/) | A faithful recreation of Netflix's UI/UX | React, Firebase, Redux | [View Demo](https://rakshakh-netflix.vercel.app/) |
 
 </div>
 
